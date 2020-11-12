@@ -1,0 +1,26 @@
+{
+  "name": "appsyncmasterclass-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Backend for the AppSync MasterClass demo app",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafpaal/appsyncmasterclass-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafpaal/appsyncmasterclass-backend/issues"
+  },
+  "homepage": "https://github.com/rafpaal/appsyncmasterclass-backend#readme",
+  "devDependencies": {
+    "i": "^0.3.6",
+    "serverless": "2.4.0",
+    "serverless-appsync-plugin": "^1.4.0"
+  }
+}
